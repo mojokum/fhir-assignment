@@ -1,3 +1,9 @@
+# Steps to Install
+1. npm install
+2. have postgres-sql in your local pgAdmin
+3. npm run start
+4. go to chrome browser and hit the url http://localhost:8080/docs - This for swagger documentation
+
 
 # TransactionTables
 1. Patient
