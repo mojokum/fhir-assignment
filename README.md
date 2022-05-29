@@ -4,10 +4,6 @@
 2. User
 
 
-------------------------------
-# API TO GET LIST OF CUSTOMERS
--------------------------------
-
 # Register new User
 POST: http://localhost:8080/api/user/register
 
